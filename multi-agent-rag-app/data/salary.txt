@@ -1,0 +1,14 @@
+This is the content for the file `/multi-agent-rag-app/multi-agent-rag-app/data/salary.txt`:
+
+This file explains how salaries are structured. 
+
+1. **Monthly Salary**: The monthly salary is the amount an employee earns in a month before any deductions. It is typically agreed upon in the employment contract.
+
+2. **Annual Salary**: The annual salary is the total amount an employee earns in a year. It can be calculated by multiplying the monthly salary by 12. 
+
+3. **Deductions**: Deductions are amounts taken out of the gross salary for various reasons, such as taxes, retirement contributions, and health insurance premiums. 
+
+4. **Calculating Annual Salary**: To calculate the annual salary, use the formula:
+   - Annual Salary = Monthly Salary × 12 - Deductions
+
+5. **Salary Structure**: Salaries can be structured in various ways, including base salary, bonuses, and commissions. Understanding the components of your salary is essential for financial planning.

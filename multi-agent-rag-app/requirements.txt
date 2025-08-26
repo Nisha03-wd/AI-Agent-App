@@ -1,0 +1,6 @@
+Streamlit
+langchain
+numpy
+pandas
+faiss-cpu
+scikit-learn
